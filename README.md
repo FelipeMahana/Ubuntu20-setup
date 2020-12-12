@@ -4,30 +4,30 @@ Este script esta pensado en la instalación básica de algunos programas de usa 
 
 ## Programas
 
-7-Zip
-Audacity
-VLC
-Gimp
-OBS
-Steam
-Synaptic
-Atom
-Spotify
-Discord
-SZH
+7-Zip,
+Audacity,
+VLC,
+Gimp,
+OBS,
+Steam,
+Synaptic,
+Atom,
+Spotify,
+Discord,
+SZH.
 
 ## Utilidades
 
-wget
-curl
-git
-gnome tweak tool
-gnome shell extensions
-dconf editor
-xclip
-zsh
-git core
-fonts powerline
+wget,
+curl,
+git,
+gnome tweak tool,
+gnome shell extensions,
+dconf editor,
+xclip,
+zsh,
+git core,
+fonts powerline.
 
 ## Instalación
 
