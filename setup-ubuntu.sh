@@ -14,7 +14,7 @@ sudo apt update -y
 
 sudo apt install wget curl git gnome-tweak-tool gnome-shell-extensions dconf-editor \
 p7zip-full p7zip-rar zsh git-core fonts-powerline audacity vlc gimp \
-obs-studio steam synaptic xclip libreoffice -y
+obs-studio steam synaptic xclip -y
 
 # Atom
 wget -qO - https://packagecloud.io/AtomEditor/atom/gpgkey | sudo apt-key add -
