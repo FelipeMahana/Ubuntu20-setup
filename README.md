@@ -1,4 +1,4 @@
-# Ubuntu20-setup
+# Ubuntu20 setup
 
 Este script esta pensado en la instalación básica de algunos programas de usa diario y algunas comodidades.
 
@@ -14,7 +14,7 @@ Synaptic,
 Atom,
 Spotify,
 Discord,
-SZH.
+ZSH.
 
 ## Utilidades
 
@@ -25,7 +25,6 @@ gnome tweak tool,
 gnome shell extensions,
 dconf editor,
 xclip,
-zsh,
 git core,
 fonts powerline.
 
