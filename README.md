@@ -11,10 +11,10 @@ Gimp,
 OBS,
 Steam,
 Synaptic,
-Atom,
 Spotify,
 Discord,
-ZSH.
+ZSH,
+NVM(necesario para script de Develop).
 
 ## Utilidades
 
@@ -26,6 +26,7 @@ gnome shell extensions,
 dconf editor,
 xclip,
 git core,
+build-essential,
 fonts powerline.
 
 ## Instalación
@@ -33,7 +34,7 @@ fonts powerline.
 Usa el siguiente comando para ejecutarlo fácilmente de una vez.
 
 ```bash
-wget https://raw.githubusercontent.com/FelipeMahana/Ubuntu20-setup/master/setup-ubuntu.sh && sudo chmod +x setup.sh && ./setup.sh
+wget https://raw.githubusercontent.com/FelipeMahana/Ubuntu20-setup/master/setup-ubuntu.sh && sudo chmod +x setup-ubuntu.sh && ./setup-ubuntu.sh
 ```
 
 ## Notas
